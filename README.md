@@ -50,7 +50,7 @@ Helper, which has 3 different optimization types, can only work 100% efficiently
 - Mention system
 - Jump pads
 
-**Helper Discord**
+<h1 align="center">**Helper Discord**</h1>
 
 Helper works in an integrated way within the discord helper plugin.
 You can turn this feature on or off by yourself.
