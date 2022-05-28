@@ -40,7 +40,7 @@ Helper, which has 3 different optimization types, can only work 100% efficiently
 - 2 Encryptions
 - Operator Password
 - Chat and title broadcast
-- custom command creator
+- Custom command creator
 - Custom join and quit message
 - Custom Bank
 - Stop Proxy
