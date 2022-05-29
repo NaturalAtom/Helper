@@ -30,7 +30,7 @@ Helper, which has 3 different optimization types, can only work 100% efficiently
 
 <h2 align="center">About Helper Rank up</h2>
 <h4 align="center">Some skyblock plugins supported by Helper, which has an external rank-up plugin:</h4>
-<h4 align="center">There is also a rank jump plugin with the money & level system externally.</h4>
+<h4 align="center">There is also a rank up plugin with the money & level system externally.</h4>
 
 <li align="center">ASkyBlock</li>
 <li align="center">IridiumSkyBlock</li>
