@@ -1,4 +1,5 @@
-![logo_transparent](https://user-images.githubusercontent.com/64479768/170822097-c5ba64cf-c9c2-4ec5-abe5-b28e0c39cbb4.png)
+
+![helper-logo](https://user-images.githubusercontent.com/64479768/170857786-108302f8-b12e-4525-a85e-4a20eea681c7.png)
 
 
 <h1 align="center">Helper</h1>
