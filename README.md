@@ -10,19 +10,24 @@ Helper automatically saves worlds on request. Likewise, you can do this in-game.
 When Helper can't find the Essentials plugin, it activates certain essentials lines so the server can go without essentials in the short term.
 Helper, which has 3 different optimization types, can only work 100% efficiently on paper spigot.
 
-**Optimization types:**
+<h2 align="center">About Helper Optimizations</h2>
+<h3 align="center">Optimization types:</h3>
+
   - SkyBlock
   - Survival
   - Best
 
-**Some skyblock plugins supported by Helper, which has an external rank-up plugin:**
+<h2 align="center">About Helper Rank up</h2>
+<h3 align="center">Some skyblock plugins supported by Helper, which has an external rank-up plugin:</h3>
 
   - ASkyblock
   - IridiumSkyBlock
   - FabledSkyBlock
   - Superior SkyBlock
 
-**There is also a rank jump plugin with the money & level system externally.**
+<h3 align="center">There is also a rank jump plugin with the money & level system externally.</h3>
+
+<h2 align="center">About Helper Protections</h2>
 
 - Dangerous client blocker
 - Anti Null Text
@@ -38,10 +43,6 @@ Helper, which has 3 different optimization types, can only work 100% efficiently
 - Anti Message Spam
 - 2 Encryptions
 - Operator Password
-- Chat and title broadcast
-- Custom command creator
-- Custom join and quit message
-- Custom Bank
 - Stop Proxy
 - Anti Book Crash
 - Helper Essentials
@@ -49,10 +50,20 @@ Helper, which has 3 different optimization types, can only work 100% efficiently
 - Helper Main
 - Helper Client
 - Helper World
+
+<h2 align="center">About Helper Features</h2>
+
+- Chat and title broadcast
+- Custom command creator
+- Custom join and quit message
+- Custom bank
+- Chat and title auto broadcast
 - Mention system
 - Jump pads
+- Hide & show player
+- In game editor ( Avaiable for spigot.yml, paper.yml, bukkit.yml )
 
-<h1 align="center">Helper Discord</h1>
+<h1 align="center">Helper Discord Module</h1>
 
 Helper works in an integrated way within the discord helper plugin.
 You can turn this feature on or off by yourself.
