@@ -1,7 +1,5 @@
 
 ![helper-logo](https://user-images.githubusercontent.com/64479768/170857786-108302f8-b12e-4525-a85e-4a20eea681c7.png)
-
-
 <h1 align="center">Helper</h1>
 <h3 align="center">What is Helper ?</h3>
 
