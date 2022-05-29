@@ -1,0 +1,37 @@
+  command-creator:
+    aboutme:
+      trigger: website
+      type: chat-message
+      message:
+        chat-message:
+          - ''
+          - '&a&l! &fWebsite: https://github.com/EuropexStudio'
+          - ''
+    discord:
+      trigger: discord
+      type: title-message
+      message:
+        settings:
+          fade-in: 2
+          stay: 2
+          fade-out: 3
+        title-message:
+          title: '&9&lEUROPEX'
+          sub-title: "&feuropex.store"
+    mixeration:
+      trigger: mixeration
+      type: aliases
+      modules:
+        commands:
+          mode: multiple # multiple
+        permission:
+          ask: true
+          perm-name: mixeration.helper
+          no-perm: '&cYou dont have a permission to do this !'
+      perform-command:
+        single: 'say Hello'
+        multiple:
+          - 'say Say'
+          - 'say Hello'
+          - 'say To'
+          - 'say Mixeration !'
