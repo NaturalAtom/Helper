@@ -32,6 +32,7 @@ public class SetupDiscordBot extends ListenerAdapter {
         String event = Path_Discord.getConfig().getString("discord.bot-status-event");
         String streaming = Path_Discord.getConfig().getString("discord.bot-status-streaming");
         Console.message("&b{ &9Helper &3| &fDiscord : Status $ Type%0 &b} &7Type$0 status type : &9" + type.toUpperCase(Locale.ROOT));
+        builder.build();
         if (type.equalsIgnoreCase("watching")) {
             builder.setActivity(Activity.watching(event));
         } else if (type.equalsIgnoreCase("playing")) {
@@ -55,9 +56,7 @@ public class SetupDiscordBot extends ListenerAdapter {
         } else if (type1.equalsIgnoreCase("invisible")) {
             builder.setStatus(OnlineStatus.INVISIBLE);
         }
-        builder.build();
         jda.addEventListener(new SendMessageToConsole());
-        Console.message("&b{ &9Helper &3| &fDiscord &b} &7/Helper activated, you can use that command for help.");
         if(Discord_Values.sendPrivateMessagesToConsole()) {
             jda.addEventListener(new SendMessageToConsole());
             Console.message("&b{ &9Helper &3| &fDiscord : Modules &b} &7Send private messages to console module is enabled.");
